@@ -1,0 +1,24 @@
+I"%<figure>
+	&lt;img src="http://localhost:4000/images/hyewon.jpg” alt="자기소개서 워드클라우드"&gt;
+	<figcaption>자기소개서 워드클라우드</figcaption>
+</figure>
+
+<!--
+This is my personal blog. It currently has 1 posts in 1 categories which combinedly have 100 words, which will take an average reader ( WPM) approximately <span class="time">0.5</span> minutes to read.  The most recent post is <a href="http://localhost:4000/swift/first-post" title="" title="Read more about “IT 블로그 시작”">"“IT 블로그 시작”"</a> which was published on <time datetime="2020-01-26T00:00:00+06:00" class="post-time">26 Jan 2020</time>. The last commit was on Sunday, 26 Jan 2020 at 02:13 PM [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
+-->
+
+<h1 align="center">
+<a href="https://docs.google.com/document/d/11DnFBrE_r5tCZuRxd2VIXdHpr0vsuCGY4hm9i-_SjJ4/edit?usp=sharing"> Hyewon_Resume </a>  
+</h1>
+
+<figure>
+  &lt;img src="http://localhost:4000/images/hyewon.jpg" alt=“Hyewon Ryu”&gt;
+  <figcaption>Hyewon Ryu</figcaption>
+</figure>
+
+<h2 id="introduction"><a href="">INTRODUCTION</a></h2>
+
+<h2>Connect</h2>
+<p>✉️ <a href="">ryuhyewon74@gmail.com</a><br />
+🌐 <a href="https://github.com/newhiwoong">https://github.com/ryuhyewon74</a></p>
+:ET
